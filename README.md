@@ -1,3 +1,3 @@
-# node-yyijmt
+# Replace accents/diacritics.
 
-[Edit on StackBlitz ⚡️](https://stackblitz.com/edit/node-yyijmt)
+Replace accents and diacritics from lagend.srt
